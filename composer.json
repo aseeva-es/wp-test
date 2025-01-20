@@ -2,7 +2,7 @@
   "name": "elena/wptest",
   "autoload": {
     "psr-4": {
-      "App\\": "src/"
+      "Elena\\Wptest\\": "src/"
     }
   },
   "authors": [
